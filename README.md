@@ -7,6 +7,5 @@
 
 #Data Transformation: Question based data arrangement was utilized to achieve clear presentation of the data.
 
-#Findings and Recommendations: Lots of people rented a particular movie more, I will recommend movies by same actors be stocked up and pitched to these customers as they are most likely to rent them that way more sales are made. 
-
-C:\Users\HP\CHUKWUMA FAVOUR CAPSTONE PROJECT.sql
+#Findings and Recommendations: Greater amount of people rented a particular movie, some rented variety of movies, others pnly rented once. 
+I will recommend movies by actors of the largely rented be stocked up and pitched to these customers as they are most likely to rent them that way more sales are made. 
